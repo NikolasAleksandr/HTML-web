@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<body>
+    <head>
+        <title> HTML vaade </title>
+        <body>
+            <h1> German Shepherd </h1>
+            <h2> Bulldog </h2>
+            <h3> Labrador Retriever </h3>
+            <h4> Husky </h4>
+            <h5> Chihuahua </h5>
+            <h6> Poodle </h6>
+            <p> The dog is a domesticated descendant of the wolf.</p>
+            <acronym title="National Aeronautics and Space Administration">NASA</acronym>
+            <hr>
+            <address>
+                <b>Võta minuga ühendust!</b> <a href="aleksandr.nikolas1@gmail.com">Minu email</a>.<br>
+            </address>
+
+            <blockquote cite="https://www.dailypaws.com/living-with-pets/pet-owner-relationship/11-reasons-dogs-are-the-best">
+                <p>
+                    There are many reasons why dogs are known as <i>man's best friend</i>.  <strong>In fact, science can back up the claims that our canine companions are the superior species, too!</strong>
+                </p>
+            </blockquote>
+
+            <p><dfn>HTML</dfn> is the technology used to create web pages.</p>
+
+            <p>My favorite color is <del>black</del> <ins>white</ins>!</p>
+
+            <p>Tõuse voodist <em>kohe</em>!</p>
+            
+            <p>
+                One of the most common equations in all of physics is <var>E</var>=<var>m</var
+                ><var>c</var><sup>2</sup>.
+              </p>
+
+              <p>Using <abbr>HTML</abbr> is fun and easy!</p>
+
+
+            </body>
+        </head>
+    </body>
+
+
